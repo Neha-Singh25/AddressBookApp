@@ -9,7 +9,7 @@ public class AddressBookApp {
 
         while (running) {
             System.out.println("\nAddress Book Menu:");
-            System.out.println("1. Add Contact");
+            System.out.println("1. Add Contact...");
             System.out.println("2. View All Contacts");
             System.out.println("3. Search Contact by Name");
             System.out.println("4. Exit");
